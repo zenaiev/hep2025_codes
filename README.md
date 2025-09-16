@@ -15,3 +15,5 @@
      - [слайди1](https://github.com/zenaiev/hep2025_codes/blob/main/slides/pandas/pandas.pdf) [слайди2](https://github.com/zenaiev/hep2025_codes/blob/main/slides/combine/combine_annotated.pdf)
   - 15.09.2024
      - [слайди](https://github.com/zenaiev/hep2025_codes/blob/main/slides/invmass/invmass.pdf)
+     - коди "hello world": [hello.cpp](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/hello.cpp) [hello_main.cpp](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/hello_main.cpp) [hello.py](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/hello.py)
+     - [головний скрипт](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/invmass.py)
