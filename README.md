@@ -20,3 +20,6 @@
         - [hello_main.cpp](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/hello_main.cpp)
         - [hello.py](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/hello.py)
      - [головний скрипт](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/invmass.py)
+  - 22.09.2024 (продовжували розбирати код для завдання фітування розподілу інваріантної маси, пройшли теорію розділення сигналу і фону та визначення перерізів)
+     - [головний скрипт](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/invmass.py)
+     - [слайди](https://github.com/zenaiev/hep2025_codes/blob/main/slides/cuts_xsec/cuts_xsec.pdf)
