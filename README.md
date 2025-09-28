@@ -23,3 +23,6 @@
   - 22.09.2024 (продовжували розбирати код для завдання фітування розподілу інваріантної маси, пройшли теорію розділення сигналу і фону та визначення перерізів)
      - [головний скрипт](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/invmass.py)
      - [слайди](https://github.com/zenaiev/hep2025_codes/blob/main/slides/cuts_xsec/cuts_xsec.pdf)
+  - 29.09.2024 (розділення сигналу і фону, визначення перерізів)
+     - [головний скрипт](https://github.com/zenaiev/hep2025_codes/tree/main/invmass/invmass_adv.py)
+     - [слайди](https://github.com/zenaiev/hep2025_codes/blob/main/slides/cuts_xsec/cuts_xsec.pdf)
