@@ -28,5 +28,5 @@
      - [слайди](https://github.com/zenaiev/hep2025_codes/blob/main/slides/cuts_xsec/cuts_xsec.pdf)
      - домашнє завдання: у функції varycut() обчислити і намалювати перерізи народження D0 (зі статистичною похибкою) для різних значень обмежень на p_min. Переріз обчислити за спрощеною формулою як відношення кількості сигнальних подій до ефективності відбору подій (тобто світимість взяти за 1).
    - 06.10.2025
-     - [слайди](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/cms_od_ttbar.pdf)
+     - [слайди1](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/cms_od_ttbar.pdf) [слайди2](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/OZ_dataValidation_Top_2016.12.13.pdf)
      - [репозиторій з кодом](https://github.com/zenaiev/2011-ttbar) (branch 2024)
