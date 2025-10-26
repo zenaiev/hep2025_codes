@@ -30,3 +30,11 @@
    - 06.10.2025
      - [слайди1](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/cms_od_ttbar.pdf) [слайди2](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/OZ_dataValidation_Top_2016.12.13.pdf)
      - [репозиторій з кодом](https://github.com/zenaiev/2011-ttbar) (branch 2024)
+   - 20.10.2025
+     - [слайди про діаграми Фейнмана](https://github.com/zenaiev/hep2025_codes/tree/main/slides/diagrams/diagrams.pdf)
+     - [слайди](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/cms_od_ttbar.pdf) [слайди2](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/OZ_dataValidation_Top_2016.12.13.pdf)
+     - [репозиторій з кодом](https://github.com/zenaiev/2011-ttbar) (branch 2024)
+   - 27.10.2025
+     - [слайди про діаграми Фейнмана і розпади частинок](https://github.com/zenaiev/hep2025_codes/tree/main/slides/diagrams/diagrams.pdf)
+     - [слайди](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/cms_od_ttbar.pdf) [слайди2](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/OZ_dataValidation_Top_2016.12.13.pdf)
+     - [репозиторій з кодом](https://github.com/zenaiev/2011-ttbar) (branch 2024)
