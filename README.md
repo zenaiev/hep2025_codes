@@ -38,7 +38,7 @@
      - DUNE (нейтрино):
        - [посилання на документацію по DUNE](https://dune.github.io/duneanaobj/classcaf_1_1StandardRecord.html)
      - CMS Open Data (топ кварки):
-       - [слайди](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/cms_od_ttbar.pdf) [слайди (2)](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/OZ_dataValidation_Top_2016.12.13.pdf)
+       - [слайди](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/cms_od_ttbar.pdf) [слайди2](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/OZ_dataValidation_Top_2016.12.13.pdf)
        - [репозиторій з кодом](https://github.com/zenaiev/2011-ttbar) (branch 2024)
    - 03.11.2025
      - [слайди про діаграми Фейнмана і розпади частинок](https://github.com/zenaiev/hep2025_codes/tree/main/slides/diagrams/diagrams.pdf)
