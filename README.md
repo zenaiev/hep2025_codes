@@ -42,4 +42,5 @@
        - [репозиторій з кодом](https://github.com/zenaiev/2011-ttbar) (branch 2024)
    - 03.11.2025
      - [слайди про діаграми Фейнмана і розпади частинок](https://github.com/zenaiev/hep2025_codes/tree/main/slides/diagrams/diagrams.pdf)
+     - розділення сигналу і фону з використанням нейромереж
 
