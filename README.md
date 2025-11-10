@@ -43,4 +43,7 @@
    - 03.11.2025
      - [слайди про діаграми Фейнмана і розпади частинок](https://github.com/zenaiev/hep2025_codes/tree/main/slides/diagrams/diagrams.pdf)
      - домашнє завдання: на парі була чорна коробка, якій ми показували картинки (8к), а потім ми питали у чорної коробки на інших (2к) подіях чи це сигнальна подія (розпад t-кварка), чи це фонова. Працювали з [цією папкою](https://drive.google.com/drive/folders/1BxqrlV8dDB-eLfOCll3WYpb2ALwemR0B?usp=share_link). На домашку задав погратись з параметрами чорної коробки. На старших курсах розкажуть що там всередині, а поки можна на [сайті](https://playground.tensorflow.org) погратись з параметрами чорної коробки. Повторити і надіслати [2 скріншоти](https://t.me/modern_computational_codes_2025/35) (в класифікації спіралька, в регресії шахова дошка) з власною оптимізованою архітектурою (мінімально слоїв, нейронів). Погратись з learning rate (крок спуску), регуляризацією (наскільки сильно бити нейромережу за помилку).
+   - 11.11.2025
+     - [слайди](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/cms_od_ttbar.pdf) [слайди2](https://github.com/zenaiev/hep2025_codes/tree/main/slides/cms_od_ttbar/OZ_dataValidation_Top_2016.12.13.pdf)
+     - [репозиторій з кодом](https://github.com/zenaiev/2011-ttbar) (branch 2024)
 
