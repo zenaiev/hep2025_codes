@@ -51,4 +51,5 @@
      - [репозиторій з кодом CMS Open Data](https://github.com/zenaiev/2011-ttbar) (branch 2024)
      - [слайди про розгортання (unfolding)](https://github.com/zenaiev/hep2025_codes/tree/main/slides/unfolding/unfolding.pdf)
      - скрипти по розгортанню (unfolding) [Python](https://github.com/zenaiev/hep2025_codes/tree/main/unfold/unfold.py) [C++](https://github.com/zenaiev/hep2025_codes/tree/main/unfold/unfold.cpp)
-
+   - 01.12.2025
+     - [завдання на залік](https://github.com/zenaiev/hep2025_codes/tree/main/tasks/tasks.txt)
