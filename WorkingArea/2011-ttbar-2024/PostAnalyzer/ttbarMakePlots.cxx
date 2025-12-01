@@ -148,12 +148,12 @@ int main(int argc, char** argv)
   cpHR.push_back(hr_cp_ytt);
   cpVar.push_back("ytt");
   // phi angle
-  TH2F* hr_cp_pitt = new TH2F("hr_cp_pitt", "", 1, -TMath::Pi(), TMath::Pi(), 1, 0, 1000.);
+  TH2F* hr_cp_pitt = new TH2F("hr_cp_pitt", "", 1, -TMath::Pi(), TMath::Pi(), 1, 0, 300.);
   hr_cp_pitt->GetXaxis()->SetTitle("y(pitt)");
   hr_cp_pitt->GetYaxis()->SetTitle("Phi angle / pi/2");
   SetCPHRange(hr_cp_pitt);
   cpHR.push_back(hr_cp_pitt);
-  cpVar.push_back("phitt");
+  cpVar.push_back("pitt");
 
   // printf("hello1\n");
   // *** TOP-11-013 Fig. 4 ***
@@ -163,9 +163,9 @@ int main(int argc, char** argv)
   for(int ch = 0; ch < 4; ch++)
   {
     c_cp[ch] = new TCanvas(TString::Format("c%d", ch), "", 800, 800);
-    c_cp[ch]->Divide(2, 2);
+    c_cp[ch]->Divide(2, 3);
   }
-  for(int v = 0; v < 4; v++)
+  for(int v = 0; v < 5; v++)
   {
     // printf("hello2 v=%d\n",v);
     TString var = cpVar[v];
@@ -338,7 +338,7 @@ int main(int argc, char** argv)
   csIn.VecHR.push_back(hr_cs_mtt);
   csIn.VecVar.push_back("mtt");
   // pi(ttbar)
-  TH2F* hr_cs_pitt = new TH2F("hr_cs_pitt", "", 1, -TMath::Pi(), TMath::Pi(), 1, 0, 0.06);
+  TH2F* hr_cs_pitt = new TH2F("hr_cs_pitt", "", 1, -TMath::Pi(), TMath::Pi(), 1, 0, 0.3);
   hr_cs_pitt->GetXaxis()->SetTitle("M(pi#bar{t}) [angle]");
   hr_cs_pitt->GetYaxis()->SetTitle("#frac{1}{#sigma} #frac{d#sigma}{dM(t#bar{t})} [GeV^{-1}]");
   SetCPHRange(hr_cs_pitt);

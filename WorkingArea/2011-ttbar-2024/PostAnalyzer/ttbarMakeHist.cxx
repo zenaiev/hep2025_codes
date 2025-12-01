@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   }
   {
     double bins[] = {-TMath::Pi(), -TMath::Pi()/2, 0, TMath::Pi()/2,TMath::Pi()};
-    vecVHGen.push_back(ZVarHisto("pitt", new TH1D("h_pittcs", "pi ttbar", 4, bins)));
+    vecVHGen.push_back(ZVarHisto("pitt", new TH1D("h_pitt_cs", "pi ttbar", 4, bins)));
   }
 
   // for reconstruction level the same binning is needed
